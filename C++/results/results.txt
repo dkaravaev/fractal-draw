@@ -1,0 +1,9 @@
+C++
+real	0m1.202s
+user	0m0.810s
+sys	0m0.023s
+
+Haskell
+real	0m2.384s
+user	0m1.987s
+sys	0m0.087s
