@@ -2,6 +2,8 @@
 
 *In the glistening surface of each pearl are reflected all the other pearls ... In each reflection, again are reflected all the infinitely many other pearls, so that by this process, reflections of reflections continue without end.*
 
+Spiral Out...
+
 ## Why it exists?
 This program reflects my small interest in group theory, complex analysis, fractal geomtry and Haskell programming.
 
