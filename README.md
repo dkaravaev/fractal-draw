@@ -7,7 +7,7 @@ Spiral Out...
 ## Why it exists?
 This program reflects my small interest in group theory, complex analysis, fractal geomtry and Haskell programming.
 
-Too draw "your" fractal you need to propose to complex numbers representing the traces of Mebius transformations A and B. 
+Too draw "your" fractal you need to propose two complex numbers representing the traces of Mebius transformations A and B. 
 
 All algorithms and math were taken from book [Indra's Pearls](https://en.wikipedia.org/wiki/Indra's_Pearls_(book)).
 
