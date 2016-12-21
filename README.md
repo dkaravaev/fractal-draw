@@ -31,23 +31,25 @@ Dynamic fractal creation. Made in C++ version.
 
 ![alt text](https://github.com/dkaravaev/fractal-draw/blob/master/C%2B%2B/results/ta%3Dtb%3D1.9%2B0.05.png)
 
-Changing the epsilon (render level). Made in Haskell version.
+5. TrA = 1.95 + 0.02i, TrB = 3
 
-1. epsilon = 0.1
+![alt text](https://github.com/dkaravaev/fractal-draw/blob/master/C%2B%2B/results/ta%3D1.95%2B0.02tb%3D3.png)
 
-![alt text](https://github.com/dkaravaev/fractal-draw/blob/master/Haskell/results/0.1c.png)
+6. TrA = 1.889 + 0.05i, TrB = 2
 
-2. epsilon = 0.01
+![alt text](https://github.com/dkaravaev/fractal-draw/blob/master/C%2B%2B/results/ta%3D1.889%2B0.05tb%3D2.png)
 
-![alt text](https://github.com/dkaravaev/fractal-draw/blob/master/Haskell/results/0.01c.png)
+7. TrA = 1.888 + 0.05i, TrB = 2
 
-3. epsilon = 0.001
+![alt text](https://github.com/dkaravaev/fractal-draw/blob/master/C%2B%2B/results/ta%3D1.888%2B0.05tb%3D2.png)
 
-![alt text](https://github.com/dkaravaev/fractal-draw/blob/master/Haskell/results/0.001c.png)
+8. TrA = 1.887 + 0.05i, TrB = 2
 
-4. epsilon = 0.0005
+![alt text](https://github.com/dkaravaev/fractal-draw/blob/master/C%2B%2B/results/ta%3D1.887%2B0.05tb%3D2.png)
 
-![alt text](https://github.com/dkaravaev/fractal-draw/blob/master/Haskell/results/0.0005c.png)
+9. TrA = 1.886 + 0.05i, TrB = 2
+
+![alt text](https://github.com/dkaravaev/fractal-draw/blob/master/C%2B%2B/results/ta%3D1.886%2B0.05tb%3D2.png)
 
 ## Requirements
 C++:
